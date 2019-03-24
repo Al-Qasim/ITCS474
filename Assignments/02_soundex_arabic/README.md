@@ -1,0 +1,1 @@
+Poor attempt at writing a soundex algorithm for arabic words.
